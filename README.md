@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # Blogger AI Automation 🚀
 
 **Author:** ubagyan  
@@ -81,11 +83,9 @@ Stores reader comments: author, content, timestamp.
 
 ## 📬 Contact
 **ubagyan**  
-[LinkedIn](https://www.linkedin.com/in/han-htet-s-185a9b2ab/) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/han-htet-s-185a9b2ab/) | [GitHub]([#](https://github.com/ubagyan))
 
 ---
 
 ## 🪪 License
 MIT License – Free to use and modify for personal or commercial projects.
-
-> Built for productivity, powered by AI ✨
